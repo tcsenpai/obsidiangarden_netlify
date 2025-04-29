@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/bookmarks/tc-senpai-s-digital-garden/","tags":["gardenEntry"]}
 ---
 
-
-![_resources/TCSenpai's Digital Garden/ed82e9a1c31551b517a8c9a4e46bf61b_MD5.webp](/img/user/_resources/TCSenpai's%20Digital%20Garden/ed82e9a1c31551b517a8c9a4e46bf61b_MD5.webp)
 _“A place to cultivate knowledge, one note at a time.”_
 
 ## ✨ Crash Course
