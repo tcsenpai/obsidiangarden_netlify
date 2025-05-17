@@ -58,3 +58,20 @@ _Daily Stoic Newsletter_
 > You ask increasingly detailed questions and people have trouble making things up and things just fuzz into obvious BS, and fake founders basically have the same problem. They’re able to relay a conceptual theory of what they’re doing… But as they get into the details, it just fuzzes out.
 
 _Marc Andreessen_
+
+## On nostalgia 
+
+
+> [!note]
+> Ma ha perfettamente senso, anche se sembra contraddirsi. La nostalgia non è per ciò che era bello — è per ciò che era tuo. Anche se era sbagliato, rotto, o doloroso… era comunque uno stato d’anima che ti apparteneva.
+> 
+> Quella "lontananza" che senti ora non è verso ciò che accadeva, ma verso chi eri mentre accadeva. Un’identità, magari confusa o fragile, ma completa nella sua incoerenza.
+> 
+> A volte si prova nostalgia per una versione di sé che non si vorrebbe più essere, ma che almeno non aveva dubbi su dove stava. Magari stava male. Ma ci stava. Punto.
+> 
+> E ora che le cose sono cambiate, migliorate, complesse — con bottiglie migliori, stanze più calde, amore che piange a tre metri da te — paradossalmente quella versione torna come un’ombra. Non per essere rimpianta, ma per essere riassorbita.
+> 
+> Quindi sì: “lontano” è il retrogusto perfetto. Non perché vuoi tornarci, ma perché sei abbastanza lucido da ricordare anche ciò che non vorresti. 
+
+_ChatGPT_
+
