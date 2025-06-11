@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/bookmarks/tc-senpai-s-digital-garden/","tags":["gardenEntry"]}
 ---
 
+![banner](/img/user/_resources/banner.png)
+
 _“A place to cultivate knowledge, one note at a time.”_
 
 ## ✨ Crash Course
@@ -13,7 +15,7 @@ Also…
 
 📂 Explore my archive of notes, ramblings, and discoveries.
 
-📜 Don't forget to check out my favorite [[Quotes\|Quotes]].
+📜 Don't forget to check out my favorite [[Quotes\|Quotes]]. Long quotes can be find in the [[Repository\|Repository]] as well.
 
 ❓ _What even is a Digital Garden?_ → [[Bookmarks/Knowledge/A Brief History of Digital Gardens\|A Brief History of Digital Gardens]]
 
@@ -38,3 +40,6 @@ Also…
 💌 If you spot any misattributions, please let me know!
 
 📂 This vault is **personal and for quick sharing only**—nothing more.
+
+—
+Made using **[https://obsidian-gallery.craftengineer.com/](https://obsidian-gallery.craftengineer.com/)**
