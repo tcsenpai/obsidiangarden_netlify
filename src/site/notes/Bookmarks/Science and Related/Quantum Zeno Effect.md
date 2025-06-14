@@ -31,7 +31,7 @@ The mathematician [Robin Gandy](https://en.wikipedia.org/wiki/Robin_Gandy) recal
 
 > [I]t is easy to show using standard theory that if a system starts in an eigenstate of some observable, and measurements are made of that observable _N_ times a second, then, even if the state is not a stationary one, the probability that the system will be in the same state after, say, one second, tends to one as _N_ tends to infinity; that is, that continual observations will prevent motion. Alan and I tackled one or two theoretical physicists with this, and they rather pooh-poohed it by saying that continual observation is not possible. But there is nothing in the standard books (e.g., [Dirac](https://en.wikipedia.org/wiki/Paul_Dirac)'s) to this effect, so that at least the paradox shows up an inadequacy of Quantum Theory as usually presented.
 >
-> — 
+> —
 >
 > > Quoted by [Andrew Hodges](https://en.wikipedia.org/wiki/Andrew_Hodges) in _Mathematical Logic,_ R. O. Gandy and C. E. M. Yates, eds. (Elsevier, 2001), p. 267.
 
